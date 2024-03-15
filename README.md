@@ -6,6 +6,6 @@ This artifact repo consists of the following three parts. For each part, please 
 
  - **fuzzing** : The improved fuzzing framework, refined with the range restriction mutation, and the improved fitness score constructed from novel oracles.
 
- - **refined_mpc_controller** : The refined controller code, which outperforms the original controller after we fixed identified bugs.
-
  - **oracle_assessment** : How to assess the controller performance based on the novel oracles.
+
+ - **refined_mpc_controller** : The refined controller code, which outperforms the original controller after we fixed identified bugs.
